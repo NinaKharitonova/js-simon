@@ -1,0 +1,5 @@
+[data-element="output-number"],
+[data-element="input-number"] {
+  width: 60px;
+  height: 53px;
+}
